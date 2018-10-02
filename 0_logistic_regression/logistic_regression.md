@@ -2,9 +2,12 @@
 
 #### 练习
 
-#### API
+良／恶性乳腺癌肿瘤预测
 
-scikit-learn: sklearn.linear_model.LogisticRegression 
+logistic_example.py
+
+#### sklearn API
+
+sklearn.linear_model.LogisticRegression 
 
 参数说明: https://blog.csdn.net/jark_/article/details/78342644
- 
