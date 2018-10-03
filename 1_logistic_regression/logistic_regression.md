@@ -11,3 +11,6 @@ sklearn.linear_model.LogisticRegression
 良／恶性乳腺癌肿瘤预测
 
 logistic_example.py
+
+#### 3. 推导过程
+
