@@ -11,3 +11,7 @@
 
 ## 1_logistic_regression  逻辑回归
 
+
+![](http://latex.codecogs.com/gif.latex?\alpha_A+\beta)
+
+inline latex ![](http://latex.codecogs.com/gif.latex?\alpha_A+\beta) inline
